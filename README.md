@@ -1,2 +1,5 @@
-The above project is for printing the details of the username entered. 
-It prints the Avatar, Username, Name and Bio of the respective username entered.
+<h2>
+  The above project inputs the username of a GitHub account. 
+  And it prints the Avatar, Username, Name and Bio of the respective GitHub account.
+  Here is the link to it : https://insaiyancvk.github.io/getgitdetails
+</h2>
